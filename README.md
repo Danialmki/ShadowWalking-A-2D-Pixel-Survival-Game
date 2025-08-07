@@ -2,7 +2,7 @@
 ShadowWalking is a thrilling 2D pixel-style survival game built in Processing. Trapped in darkness, you play as a lone survivor armed only with a flashlight and a gun. Reveal the hidden, fend off waves of enemies, and confront a terrifying boss in the final level. Time your shots, manage your health, and survive the shadows!
 
 🎮 Features
-	•	🔦 Flashlight Cone – Reveal enemies only within the beam of your flashlight.\n
+	•	🔦 Flashlight Cone – Reveal enemies only within the beam of your flashlight.
 	•	🧟‍♂️ Enemy AI – Enemies dynamically spawn and attack from all sides.
 	•	💊 Health Packs – Health packs move across the screen and can be shot to instantly heal you to 100%.
 	•	🔫 Strategic Shooting – With a cooldown between shots, timing is critical.
