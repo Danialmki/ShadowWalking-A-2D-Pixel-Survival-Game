@@ -47,5 +47,12 @@ R  Restart after game over or victory
 
 🖼️ Screenshots
 
-<img width="791" height="396" alt="Screenshot 2025-08-07 at 7 41 38 PM" src="https://github.com/user-attachments/assets/cd16a61d-cc38-499c-ae1c-ed2b79c0ed08" />
+<img width="793" height="395" alt="Screenshot 2025-08-07 at 7 47 56 PM" src="https://github.com/user-attachments/assets/d4e7e0c3-fb77-4c9d-82a9-b545b7b11ccd" />
+
+<img width="798" height="399" alt="Screenshot 2025-08-07 at 7 48 03 PM" src="https://github.com/user-attachments/assets/8765d791-56b2-4d11-8f5f-e1e3394e869a" />
+
+<img width="798" height="398" alt="Screenshot 2025-08-07 at 7 48 14 PM" src="https://github.com/user-attachments/assets/ac32db94-3a20-420e-9696-b4276f235d59" />
+
+<img width="797" height="398" alt="Screenshot 2025-08-07 at 7 49 24 PM" src="https://github.com/user-attachments/assets/1d0e633a-1bd3-431e-8f76-01a5113bfee6" />
+
 
